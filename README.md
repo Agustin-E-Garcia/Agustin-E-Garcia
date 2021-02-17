@@ -1,7 +1,7 @@
 - Hi, I’m Agustin Ezequiel Garcia, a junior programmer from Argentina excited to be working in the game insdustry!
 - This is my all neat and tidy Github account, I also have one where I have my old (and not that old, but outdated) projects that I mostly worked on as a student, if you're interested contact me!
 
-*Knowledge*
+*About me*
 - I started programming around 4 years ago as a student at I.M.A.G.E. Campus (Buenos Aires, Argentina), and nowadays I work at Error404 Game Studios as a Game Programmer!
 - I work almost exclusively in Unity3D with code written in C#, but don't let that fool you! I have a really good grasp in C++ too!
 
