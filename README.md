@@ -3,7 +3,7 @@
 
 *About me*
 - I started programming around 4 years ago as a student at I.M.A.G.E. Campus (Buenos Aires, Argentina), and nowadays I work at Error404 Game Studios as a Game Programmer!
-- I work almost exclusively in Unity3D with code written in C#, but don't let that fool you! I have a really good grasp in C++ too!
+- I work almost exclusively in Unity3D with code written in C#, but don't let that fool you! I have a really good grasp in C++ too! with Object-Oriented Programming and all, yeah!
 
 *Interests*
 - Right now I'm working on some project ideas, more like proof-of-concept projects to showcase my skills and to have a bit of fun doing it at the same time. Check from time to time to see what I'm working at!
