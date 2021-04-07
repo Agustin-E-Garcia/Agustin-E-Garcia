@@ -1,4 +1,4 @@
-- Hi, I’m Agustin Ezequiel Garcia, a junior programmer from Argentina excited to be working in the game insdustry!
+- Hi, I’m Agustin Ezequiel Garcia, a programmer from Argentina excited to be working in the game insdustry!
 
 *About me*
 - I started programming around 4 years ago as a student at I.M.A.G.E. Campus (Buenos Aires, Argentina), and nowadays I work at Error404 Game Studios as a Game Programmer!
