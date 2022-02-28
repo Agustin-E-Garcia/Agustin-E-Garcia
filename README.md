@@ -5,7 +5,6 @@
 - I work almost exclusively in Unity3D with code written in C#, but don't let that fool you! I have a really good grasp in C++ too! with Object-Oriented Programming and all, yeah!
 
 *Interests*
-- Right now I'm working on some project ideas, more like proof-of-concept projects to showcase my skills and to have a bit of fun doing it at the same time. Check from time to time to see what I'm working at!
 - I'm really interested in pursuing more knowledge of networking systems, as I'm currently working on a multiplayer game at work, and it sparked my interest.
 - I'm also interested in mobile development, had some experiencie as a student and as a profesional for a few months, still learning a lot!
 
