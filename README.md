@@ -1,7 +1,7 @@
-- Hi, I’m Agustin Ezequiel Garcia, a programmer from Argentina excited to be working in the game insdustry!
+- Hi, I’m Agustin Ezequiel Garcia, a programmer from Argentina, living in Canada excited to be working in the game insdustry!
 
 *About me*
-- I started programming around 4 years ago as a student at I.M.A.G.E. Campus (Buenos Aires, Argentina), and nowadays I work at Emerald City Games as a Generalist Programmer!
+- I started programming around 7 years ago as a student at I.M.A.G.E. Campus (Buenos Aires, Argentina), and nowadays I work at Emerald City Games as a Generalist Programmer!
 - I work almost exclusively in Unity3D with code written in C#, but don't let that fool you! I have a really good grasp in C++ too! with Object-Oriented Programming and all!
 
 *Contact*
